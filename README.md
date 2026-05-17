@@ -5,7 +5,7 @@ Takes an argument of a username and a password list from standard input. Brute f
 
 This program uses the library known splinter to interact with the instagram website. This library is well documented and has few dependencies.
 
-The program uses firefox, but if you use google chrome all you have to do is change "with Browser('firefox', headless=True)" to "with Browser('chrome', headless=True)". Simple as that.
+The program uses firefox, but if you use google chrome all you have to do is change "with Browser('firefo', headless=True)" to "with Browser('chrome', headless=True)". Simple as that.
 
 If you use firefox, you must be running at least version 55 to run this program in headless mode.
 
